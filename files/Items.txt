@@ -1,0 +1,76 @@
+AngeGardien Anti-Burst
+AttrapeSorts Kite
+AuBoutDuRouleau
+BatonDeLArchange
+BatonDuVide
+BatonSeculaire
+CapeSolaire Waveclear
+CanonUltrarapide
+CasqueAdaptatif
+CimeterreMercuriel
+CoeurGele
+CoiffeDeRabadon
+ConvergenceDeZeke
+CotteEpineuse Anti-AA Anti-Heal
+CouperetNoir
+CreusetDeMickael
+DanseDeLaMort
+DanseurFantome
+Denohminateur
+DentDeNashor
+EchoDeLuden Waveclear Aoe
+EpeeVesperaleDeDraktharr
+EncensoirArdent
+FauxSpectrale
+FleauDeLiche
+ForceDeLaTrinite
+GageDeSterrack
+GanteletGivrant Waveclear Aoe
+GLPHextech800
+GloireDuJuste
+GraalImpieDAthene
+GueuleDeMalmortius
+HydreTitanesque Waveclear Aoe
+HydreVorace Waveclear Aoe
+LameDuRoiDechu
+LameDuTraqueurEchosRuniques Waveclear Aoe
+LameDuTraqueurGuerrier
+LameDuTraqueurRasoirSanglant
+LameDInfinie Crit
+LameEnrageeDeGuinsoo Waveclear Aoe
+LameSpectreDeYoumuu
+LameTempete Crit
+LithoplastronDeGargouille
+MailletGele
+Manamune
+MasqueAbyssal
+ManteauDeLaNuit
+MedaillonDeSolaris
+Morellonomicon Anti-Heal
+OmbresJumelles
+OuraganDeRunaan Waveclear
+PlaqueDuMort
+PistolameHextech
+PortailDeZZRot Waveclear
+PoignardDeStatikk Waveclear Aoe
+PresagedeRanduin Anti-AA Anti-Crit
+ProtoCeintureHextech01 Waveclear Aoe
+Redemption
+RappelMortel Anti-Heal
+SablierDeZonya
+SabreDeLEscarmoucheEchosRuniques Waveclear Aoe
+SabreDeLEscarmoucheGuerrier
+SabreDeLEscarmoucheRasoirSanglant
+SalutationsDeDominik
+SceptreDeRilay
+SoifDeSang Heal
+SongeDeShurelya
+TourmentDeLiandry
+VestigeDesManifestations
+VestigeDesTransfigurés
+VestigeDesVeilleurs
+VisageSpirituel
+VoeuDuChevalier
+VoileDeLaBanshee Anti-Catch
+VoleurDAmeDeMejai
+WarmogArmureVivante

@@ -1,141 +1,141 @@
-Aatrox Attaquant Catch Atk Top Damages:Ad Difficulty:Medium
-Ahri BurstMage Atk Catch Poke Mid Damages:Ap Difficulty:Difficult Waveclear
-Akali Assassin Catch Split Mid Damages:Ap Difficulty:Difficult
-Alistar Avant-garde Atk Catch Support Damages:Ap Difficulty:Medium Engage
-Amumu Avant-garde Atk Catch Jungle Damages:Ap Difficulty:Easy Engage Love
-Anivia Battlemage Atk Protect Poke Mid Damages:Ap Difficulty:Expert Engage Waveclear
-Annie BurstMage Atk Catch Poke Mid Support Damages:Ap Difficulty:Easy Engage Love
-Ashe Tireur Catch Poke Adc Damages:Ad Difficulty:Easy Engage Love
-AurelionSol Battlemage Atk Protect Poke Mid Damages:Ap Difficulty:Difficult Engage
-Azir Specialiste Atk Protect Mid Damages:Ap Difficulty:Expert Engage Waveclear
-Bard Attrapeur Catch Poke Support Damages:Ap Difficulty:Difficult Engage
-Blitzcrank Attrapeur Catch Poke Support Damages:Ap Difficulty:Difficult
-Brand BurstMage Atk Catch Poke Mid Support Damages:Ap Difficulty:Medium Waveclear Love
-Braum Gardien Protect Poke Support Damages:Ap Difficulty:Easy
-Caitlyn Tireur Poke Protect Adc Damages:Ad Difficulty:Medium Waveclear
-Camille Attaquant Catch Atk Top Damages:Ad Difficulty:Medium Engage
-Cassiopeia Battlemage Atk Protect Poke Mid Damages:Ap Difficulty:Expert
-Cho'Gath Specialiste Protect Atk Top Mid Damages:Hybrid Difficulty:Easy Love
-Corki Tireur Poke Mid Adc Damages:Hybrid Difficulty:Medium Engage Waveclear
-Darius Boss Split Protect Top Damages:Hybrid Difficulty:Medium
-Diana Assassin Catch Split Mid Jungle Damages:Ap Difficulty:Medium
-Dr.Mundo Boss Split Protect Top Damages:Ap Difficulty:Easy
-Draven Tireur Protect Adc Damages:Ad Difficulty:Difficult
-Ekko Assassin Catch Split Mid Top Jungle Damages:Ap Difficulty:Difficult
-Elise Attaquant Catch Atk Jungle Support Damages:Ap Difficulty:Difficult Engage Love
-Evelynn Assassin Catch Split Jungle Damages:Ap Difficulty:Difficult
-Ezreal Tireur Poke Catch Adc Mid Damages:Hybrid Difficulty:Medium
-Fiddlesticks Specialiste Atk Poke Jungle Mid Support Damages:Ap Difficulty:Difficult Engage
-Fiora Duelliste Split Split Top Damages:Ad Difficulty:Difficult
-Fizz Assassin Catch Split Mid Top Damages:Ap Difficulty:Medium Engage
-Galio Gardien Protect Poke Mid Top Damages:Ap Difficulty:Medium Waveclear
-Gangplank Specialiste Atk Poke Split Top Damages:Ad Difficulty:Difficult Waveclear
-Garen Boss Split Protect Top Damages:Ad Difficulty:Easy
-Gnar Specialiste Atk Top Damages:Ad Difficulty:Medium Engage
-Gragas Avant-garde Atk Catch Mid Jungle Damages:Ap Difficulty:Difficult Engage
-Graves Specialiste Atk Split Jungle Damages:Ad Difficulty:Medium
-Hecarim Attaquant Catch Atk Jungle Damages:Ad Difficulty:Medium Engage
-Heimerdinger Specialiste Poke Split Mid Damages:Ap Difficulty:Medium Waveclear
-Illaoi Boss Split Protect Top Damages:Ad Difficulty:Easy
-Irelia Duelliste Split Split Top Mid Damages:Ad Difficulty:Difficult
-Ivern Attrapeur Catch Poke Jungle Damages:Ap Difficulty:Medium Engage
-Janna Enchanteur Protect Poke Split Support Damages:Ap Difficulty:Medium Disengage
-JarvanIV Avant-garde Atk Catch Jungle Damages:Ad Difficulty:Medium Engage
-Jax Duelliste Split Split Top Jungle Damages:Ad Difficulty:Medium AA-Based
-Jayce Specialiste Poke Split Top Damages:Ad Difficulty:Medium Waveclear
-Jhin Tireur Catch Adc Damages:Ad Difficulty:Medium Engage
-Jinx Tireur Atk Protect Adc Damages:Ad Difficulty:Medium Waveclear
-Kai'Sa Tireur Atk Catch Protect Adc Damages:Hybrid Difficulty:Medium
-Kalista Tireur Atk Protect Adc Damages:Ad Difficulty:Expert Engage
-Karma Enchanteur Protect Poke Split Support Damages:Ap Difficulty:Medium Waveclear
-Karthus Battlemage Atk Protect Poke Mid Damages:Ap Difficulty:Difficult
-Kassadin Assassin Catch Split Mid Damages:Ap Difficulty:Difficult
-Katarina Assassin Catch Split Mid Damages:Ap Difficulty:Expert
-Kayle Specialiste Protect Split Top Jungle Damages:Hybrid Difficulty:Easy
-Kayn Specialiste Catch Atk Jungle Damages:Ad Difficulty:Medium
-Kennen Specialiste Atk Split Top Support Damages:Hybrid Difficulty:Medium Engage
-Kha'Zix Assassin Catch Split Jungle Damages:Ad Difficulty:Medium
-Kindred Tireur Atk Protect Jungle Damages:Ad Difficulty:Difficult
-Kled Attaquant Catch Atk Top Damages:Ad Difficulty:Medium Engage
-Kog'Maw Tireur Protect Atk Adc Damages:Hybrid Difficulty:Medium
-LeBlanc BurstMage Atk Catch Poke Mid Damages:Ap Difficulty:Difficult
-LeeSin Avant-garde Atk Catch Jungle Damages:Ad Difficulty:Expert Engage
-Leona Avant-garde Atk Catch Support Damages:Ap Difficulty:Easy Engage
-Lissandra BurstMage Atk Catch Poke Mid Damages:Ap Difficulty:Medium Engage
-Lucian Tireur Atk Split Adc Damages:Ad Difficulty:Difficult
-Lulu Enchanteur Protect Poke Split Support Mid Damages:Ap Difficulty:Easy Anti-AllIn
-Lux BurstMage Atk Catch Poke Mid Support Damages:Ap Difficulty:Medium Engage Waveclear
-Malphite Avant-garde Atk Catch Top Damages:Ap Difficulty:Easy Engage
-Malzahar Battlemage Atk Protect Poke Mid Damages:Ap Difficulty:Easy Anti-Catch Waveclear
-Maokai Avant-garde Atk Catch Top Damages:Ap Difficulty:Easy
-MaitreYi Duelliste Split Split Jungle Damages:Ad Difficulty:Medium AA-Based
-MissFortune Tireur Atk Adc Damages:Ad Difficulty:Easy
-Mordekaiser Boss Split Protect Mid Adc Damages:Ap Difficulty:Medium
-Morgana Attrapeur Catch Poke Support Damages:Ap Difficulty:Easy Engage
-Nami Enchanteur Protect Poke Split Support Damages:Ap Difficulty:Medium Engage
-Nasus Boss Split Protect Top Damages:Ad Difficulty:Easy Difficulty:Easy
-Nautilus Avant-garde Atk Catch Support Top Damages:Ap Difficulty:Easy Engage
-Nidalee Specialiste Poke Catch Jungle Damages:Ap Difficulty:Expert
-Nocturne Assassin Catch Split Jungle Damages:Ad Difficulty:Easy Engage
-NunuEtWillump Avant-garde Atk Catch Jungle Damages:Ap Difficulty:Easy Engage
-Olaf Attaquant Catch Atk Top Jungle Damages:Ad Difficulty:Medium Engage AA-Based
-Orianna BurstMage Atk Catch Poke Mid Damages:Ap Difficulty:Difficult Waveclear
-Ornn Avant-garde Atk Catch Top Damages:Ap Difficulty:Medium Pro-CC Engage
-Pantheon Attaquant Catch Atk Top Damages:Ad Difficulty:Easy
-Poppy Gardien Protect Poke Top Damages:Ad Difficulty:Medium Disengage
-Pyke Attrapeur Catch Poke Support Jungle Damages:Ad Difficulty:Medium Engage
-Quinn Specialiste Split Catch Jungle Adc Top Damages:Ad Difficulty:Medium
-Rakan Enchanteur Protect Poke Split Support Damages:Ap Difficulty:Difficult Engage
-Rammus Avant-garde Atk Catch Jungle Damages:Ap Difficulty:Easy Engage
-Rek'Sai Attaquant Catch Atk Jungle Damages:Ad Difficulty:Medium
-Renekton Attaquant Catch Atk Top Damages:Ad Difficulty:Difficult
-Rengar Assassin Catch Split Jungle Damages:Ad Difficulty:Difficult
-Riven Duelliste Split Split Top Damages:Ad Difficulty:Expert Engage
-Rumble Battlemage Atk Protect Poke Top Damages:Ap Difficulty:Expert
-Ryze Battlemage Atk Protect Poke Mid Top Damages:Ap Difficulty:Expert Waveclear
-Sejuani Avant-garde Atk Catch Jungle Damages:Ap Difficulty:Easy Engage
-Shaco Assassin Catch Split Jungle Top Damages:Ad Difficulty:Expert
-Shen Gardien Protect Poke Top Support Damages:Ap Difficulty:Easy
-Shyvana Boss Split Protect Jungle Top Damages:Ad Difficulty:Easy Engage
-Singed Specialiste Split Catch Top Damages:Ap Difficulty:Expert Engage
-Sion Avant-garde Atk Catch Top Support Damages:Ad Difficulty:Medium Engage
-Sivir Tireur Split Catch Protect Adc Damages:Ad Difficulty:Medium Waveclear
-Skarner Avant-garde Atk Catch Jungle Damages:Ap Difficulty:Easy Engage
-Sona Enchanteur Protect Poke Split Support Damages:Ap Difficulty:Easy Heal Engage
-Soraka Enchanteur Protect Poke Split Support Damages:Ap Difficulty:Easy Heal
-Swain Battlemage Atk Protect Poke Mid Damages:Ap Difficulty:Medium
-Syndra BurstMage Atk Catch Poke Mid Damages:Ap Difficulty:Medium Waveclear
-TahmKench Gardien Protect Poke Support Damages:Ap Difficulty:Easy
-Taliyah Battlemage Atk Protect Poke Mid Jungle Damages:Ap Difficulty:Difficult Engage Waveclear
-Talon Assassin Catch Split Mid Damages:Ad Difficulty:Medium
-Taric Enchanteur Protect Poke Split Support Damages:Ap Difficulty:Medium Disengage
-Teemo Specialiste Split Catch Top Support Damages:Ap Difficulty:Difficult Waveclear
-Thresh Attrapeur Catch Poke Support Damages:Hybrid Difficulty:Expert Engage
-Tristana Tireur Atk Protect Adc Damages:Ad Difficulty:Easy Waveclear
-Trundle Boss Split Protect Top Jungle Damages:Ad Difficulty:Easy Engage
-Tryndamere Duelliste Split Split Top Damages:Ad Difficulty:Medium AA-Based Crit
-TwistedFate BurstMage Atk Catch Poke Mid Damages:Ap Difficulty:Difficult Waveclear
-Twitch Tireur Atk Protect Adc Damages:Ad Difficulty:Medium Engage
-Udyr Boss Split Protect Jungle Damages:Ad Difficulty:Easy
-Urgot Boss Split Protect Top Damages:Ad Difficulty:Medium
-Varus Tireur Atk Catch Protect Poke Adc Damages:Hybrid Difficulty:Medium Engage Waveclear
-Vayne Tireur Atk Protect Split Adc Damages:Ad Difficulty:Expert
-Veigar BurstMage Atk Catch Poke Mid Support Damages:Ap Difficulty:Medium Waveclear
-Vel'Koz ArtilleryMage Poke Atk Mid Support Damages:Ap Difficulty:Difficult Waveclear
-Vi Attaquant Catch Atk Jungle Damages:Ad Difficulty:Medium Engage
-Viktor Battlemage Atk Protect Poke Mid Top Damages:Ap Difficulty:Medium Waveclear
-Vladimir Battlemage Atk Protect Poke Top Mid Damages:Ap Difficulty:Medium Anti-AllIn Heal Aoe
-Volibear Boss Split Protect Jungle Top Damages:Hybrid Difficulty:Medium
-Warwick Attaquant Catch Atk Jungle Damages:Hybrid Difficulty:Medium Engage
-Wukong Attaquant Catch Atk Top Jungle Damages:Ad Difficulty:Medium Engage
-Xayah Tireur Atk Protect Adc Damages:Ad Difficulty:Medium Waveclear
-Xerath ArtilleryMage Poke Atk Mid Support Damages:Ap Difficulty:Difficult Waveclear
-XinZhao Attaquant Catch Atk Jungle Damages:Ad Difficulty:Medium
-Yasuo Duelliste Split Split Top Mid Damages:Ad Difficulty:Difficult AA-Based Crit
-Yorick Boss Split Protect Top Damages:Ad Difficulty:Medium
-Zac Avant-garde Atk Catch Jungle Damages:Ap Difficulty:Medium Engage
-Zed Assassin Catch Split Mid Top Damages:Ad Difficulty:Expert
-Ziggs ArtilleryMage Poke Atk Mid Damages:Ap Difficulty:Difficult Waveclear
-Zilean Specialiste Protect Poke Support Mid Damages:Ap Difficulty:Medium Waveclear
-Zoe BurstMage Atk Catch Poke Mid Damages:Ap Difficulty:Difficult
-Zyra BurstMage Atk Catch Poke Support Mid Damages:Ap Difficulty:Medium Disengage Waveclear
+Aatrox Attaquant Catch Atk Top Ad Medium Bump Dash MaxHealthDamages Anti-Heal Heal SelfBoost Grab Revive Manaless
+Ahri BurstMage Atk Catch Poke Mid Ap Difficult Waveclear Dash Seduce Heal
+Akali Assassin Catch Split Mid Ap Difficult Dash Burst Invisibility Manaless
+Alistar Avant-garde Atk Catch Support Ap Medium Engage Stun Bump KnockOut
+Amumu Avant-garde Atk Catch Jungle Ap Easy Engage favorite MaxHealthDamages TrueDamages Pro-Arm Pro-Rm Stun Dash Disarm Root Projectile
+Anivia Battlemage Atk Protect Poke Mid Ap Expert Engage Waveclear Stun Revive Wall
+Annie BurstMage Atk Catch Poke Mid Support Ap Easy Engage favorite Burst Stun Summon
+Ashe Tireur Catch Poke Adc Ad Easy Engage favorite AA-Based Slow Stun Vision Global
+AurelionSol Battlemage Atk Protect Poke Mid Ap Difficult Engage Stun Mobility
+Azir Specialiste Atk Protect Mid Ap Expert Engage Waveclear Bump Shield Knockout
+Bard Attrapeur Catch Poke Support Ap Difficult Engage Heal Mobility Stun
+Blitzcrank Attrapeur Catch Poke Support Ap Difficult Bump Grab Projectile Silence Shield Pro-Mana
+Brand BurstMage Atk Catch Poke Mid Support Ap Medium Waveclear favorite Stun Burst MaxHealthDamages Slow Projectile Dot
+Braum Gardien Protect Poke Support Ap Easy Pro-Arm Pro-Hp Pro-Rm Anti-Projetile Stun Slow Dash Save Bump Mark
+Caitlyn Tireur Poke Protect Adc Ad Medium Waveclear AA-Based Dash Slow Root Crit Vision LaneBully Trap
+Camille Attaquant Catch Atk Top Ad Medium Engage Restrict
+Cassiopeia Battlemage Atk Protect Poke Mid Ap Expert Anti-Dash Stun Dot
+Cho'Gath Specialiste Protect Atk Top Mid Hybrid Easy favorite Silence Burst TrueDamages Bump
+Corki Tireur Poke Mid Adc Hybrid Medium Engage Waveclear SemiGlobal
+Darius Boss Split Protect Top Hybrid Medium TrueDamages Finisher
+Diana Assassin Catch Split Mid Jungle Ap Medium Bump Burst Dash Shield
+Dr.Mundo Boss Split Protect Top Ap Easy Heal Slow CurrentHealthDamages SelfBuff Pro-Hp
+Draven Tireur Protect Adc Ad Difficult AA-Based Global
+Ekko Assassin Catch Split Mid Top Jungle Ap Difficult
+Elise Attaquant Catch Atk Jungle Support Ap Difficult Engage favorite
+Evelynn Assassin Catch Split Jungle Ap Difficult Seduce
+Ezreal Tireur Poke Catch Adc Mid Hybrid Medium Global
+Fiddlesticks Specialiste Atk Poke Jungle Mid Support Ap Difficult Engage Fear
+Fiora Duelliste Split Top Ad Difficult AA-Based Block
+Fizz Assassin Catch Split Mid Top Ap Medium Engage Slow Burst Dash Dodge
+Galio Gardien Protect Poke Mid Top Ap Medium Waveclear Pro-Rm Bump Buff SemiGlobal SelfBuff Dash
+Gangplank Specialiste Atk Poke Split Top Ad Difficult Waveclear Gold Global
+Garen Boss Split Protect Top Ad Easy TrueDamages Finisher SelfBoost Silence SelfBuff Heal Manaless
+Gnar Specialiste Atk Top Ad Medium Engage Dash Stun Knockout
+Gragas Avant-garde Atk Catch Mid Jungle Ap Difficult Engage Bump
+Graves Specialiste Atk Split Jungle Ad Medium Blind
+Hecarim Attaquant Catch Atk Jungle Ad Medium Engage Fear
+Heimerdinger Specialiste Poke Split Mid Ap Medium Waveclear Stun
+Illaoi Boss Split Protect Top Ad Easy
+Irelia Duelliste Split Top Mid Ad Difficult anti-cc
+Ivern Attrapeur Catch Poke Jungle Ap Medium Engage Summon
+Janna Enchanteur Protect Poke Split Support Ap Medium Disengage Bump
+JarvanIV Avant-garde Atk Catch Jungle Ad Medium Engage Bump Restrict
+Jax Duelliste Split Top Jungle Ad Medium AA-Based
+Jayce Specialiste Poke Split Top Ad Medium Waveclear
+Jhin Tireur Catch Adc Ad Medium Engage AA-Based Trap
+Jinx Tireur Atk Protect Adc Ad Medium Waveclear AA-Based
+Kai'Sa Tireur Atk Catch Protect Adc Hybrid Medium AA-Based
+Kalista Tireur Atk Protect Adc Ad Expert Engage AA-Based Bump
+Karma Enchanteur Protect Poke Split Support Ap Medium Waveclear
+Karthus Battlemage Atk Protect Poke Mid Ap Difficult Deathrattle Global
+Kassadin Assassin Catch Split Mid Ap Difficult Dash
+Katarina Assassin Catch Split Mid Ap Expert Dash
+Kayle Specialiste Protect Split Top Jungle Hybrid Easy Invincibility
+Kayn Specialiste Catch Atk Jungle Ad Medium Bump
+Kennen Specialiste Atk Split Top Support Hybrid Medium Engage Manaless
+Kha'Zix Assassin Catch Split Jungle Ad Medium
+Kindred Tireur Atk Protect Jungle Ad Difficult AA-Based
+Kled Attaquant Catch Atk Top Ad Medium Engage Boost SelfBoost Dash
+Kog'Maw Tireur Protect Atk Adc Hybrid Medium AA-Based Deathrattle
+LeBlanc BurstMage Atk Catch Poke Mid Ap Difficult Root Dash Sneak
+LeeSin Avant-garde Atk Catch Jungle Ad Expert Engage Bump Knockout
+Leona Avant-garde Atk Catch Support Ap Easy Engage Pro-Arm Pro-Rm Dash Stun Root Slow SelfBuff Mark
+Lissandra BurstMage Atk Catch Poke Mid Ap Medium Engage
+Lucian Tireur Atk Split Adc Ad Difficult AA-Based
+Lulu Enchanteur Protect Poke Split Support Mid Ap Easy Anti-Burst Bump Shield Buff
+Lux BurstMage Atk Catch Poke Mid Support Ap Medium Engage Waveclear SemiGlobal
+Malphite Avant-garde Atk Catch Top Ap Easy Engage Pro-Arm Bump
+Malzahar Battlemage Atk Protect Poke Mid Ap Easy Anti-Catch Waveclear Mana Silence Suppress MaxHealthDamages
+Maokai Avant-garde Atk Catch Top Ap Easy Trap Root Dodge Vision MaxHealthDamages Stun Heal Pro-Hp Summon
+MaitreYi Duelliste Split Jungle Ad Medium AA-Based Dodge SelfBoost Dash Anti-Slow
+MissFortune Tireur Atk Adc Ad Easy AA-Based Slow LaneBully
+Mordekaiser Boss Split Protect Mid Adc Ap Medium
+Morgana Attrapeur Catch Poke Support Ap Easy Engage
+Nami Enchanteur Protect Poke Split Support Ap Medium Engage Bump
+Nasus Boss Split Protect Top Ad Easy Stack SelfBuff Slow Debuff
+Nautilus Avant-garde Atk Catch Support Top Ap Easy Engage Bump
+Nidalee Specialiste Poke Catch Jungle Ap Expert Trap
+Nocturne Assassin Catch Split Jungle Ad Easy Engage Fear
+NunuEtWillump Avant-garde Atk Catch Jungle Ap Easy Engage
+Olaf Attaquant Catch Atk Top Jungle Ad Medium Engage AA-Based
+Orianna BurstMage Atk Catch Poke Mid Ap Difficult Waveclear Bump
+Ornn Avant-garde Atk Catch Top Ap Medium Pro-CC Engage Bump anti-cc
+Pantheon Attaquant Catch Atk Top Ad Easy
+Poppy Gardien Protect Poke Top Ad Medium Disengage Anti-Dash Bump
+Pyke Attrapeur Catch Poke Support Jungle Ad Medium Engage
+Quinn Specialiste Split Catch Jungle Adc Top Ad Medium Anti-AA
+Rakan Enchanteur Protect Poke Split Support Ap Difficult Engage Bump
+Rammus Avant-garde Atk Catch Jungle Ap Easy Engage Anti-AA Pro-Arm
+Rek'Sai Attaquant Catch Atk Jungle Ad Medium Bump
+Renekton Attaquant Catch Atk Top Ad Difficult
+Rengar Assassin Catch Split Jungle Ad Difficult
+Riven Duelliste Split Top Ad Expert Engage Bump Shield Dash
+Rumble Battlemage Atk Protect Poke Top Ap Expert Slow Shield
+Ryze Battlemage Atk Protect Poke Mid Top Ap Expert Waveclear
+Sejuani Avant-garde Atk Catch Jungle Ap Easy Engage Bump Stun Mark
+Shaco Assassin Catch Split Jungle Top Ad Expert Sneak Burst
+Shen Gardien Protect Poke Top Support Ap Easy Shield Anti-AA Global
+Shyvana Boss Split Protect Jungle Top Hybrid Easy Engage AA-Based SelfBoost MaxHealthDamages Pro-Drake SelfBuff favorite Manaless
+Singed Specialiste Split Catch Top Ap Expert Engage Bump SelfBuff SelfBoost Dot
+Sion Avant-garde Atk Catch Top Support Ad Medium Engage Bump Deathrattle SelfBoost Shield MaxHealthDamages Slow Debuff Pro-Hp Stack favorite
+Sivir Tireur Split Catch Protect Adc Ad Medium Waveclear AA-Based Boost SelfBoost
+Skarner Avant-garde Atk Catch Jungle Ap Easy Engage
+Sona Enchanteur Protect Poke Split Support Ap Easy Heal Engage Buff Slow Shield Debuff CdrLess
+Soraka Enchanteur Protect Poke Split Support Ap Easy Heal Silence Root Kite Global
+Swain Battlemage Atk Protect Poke Mid Ap Medium
+Syndra BurstMage Atk Catch Poke Mid Ap Medium Waveclear Burst Stun
+TahmKench Gardien Protect Poke Support Ap Easy Stun Shield Grab Save Mark
+Taliyah Battlemage Atk Protect Poke Mid Jungle Ap Difficult Engage Waveclear Bump
+Talon Assassin Catch Split Mid Ad Medium Mobility Dash Dot Sneak
+Taric Enchanteur Protect Poke Split Support Ap Medium Disengage Pro-Arm Pro-Hp
+Teemo Specialiste Split Catch Top Support Ap Difficult Waveclear Anti-AA Dot Vision Slow SelfBoost Trap Blind
+Thresh Attrapeur Catch Poke Support Hybrid Expert Engage Bump Save
+Tristana Tireur Atk Protect Adc Ad Easy Waveclear AA-Based
+Trundle Boss Split Protect Top Jungle Ad Easy Engage Bump
+Tryndamere Duelliste Split Top Ad Medium AA-Based Crit Invincibility
+TwistedFate BurstMage Atk Catch Poke Mid Ap Difficult Waveclear Gold Vision Stun Mana
+Twitch Tireur Atk Protect Adc Ad Medium Engage AA-Based Sneak
+Udyr Boss Split Protect Jungle Ad Easy SelfBoost SelfBuff
+Urgot Boss Split Protect Top Ad Medium Bump
+Varus Tireur Atk Catch Protect Poke Adc Hybrid Medium Engage Waveclear
+Vayne Tireur Atk Protect Split Adc Ad Expert AA-Based
+Veigar BurstMage Atk Catch Poke Mid Support Ap Medium Waveclear Stack
+Vel'Koz ArtilleryMage Poke Atk Mid Support Ap Difficult Waveclear Bump
+Vi Attaquant Catch Atk Jungle Ad Medium Engage Bump
+Viktor Battlemage Atk Protect Poke Mid Top Ap Medium Waveclear Bump
+Vladimir Battlemage Atk Protect Poke Top Mid Ap Medium Heal Anti-Burst Manaless
+Volibear Boss Split Protect Jungle Top Hybrid Medium Bump
+Warwick Attaquant Catch Atk Jungle Hybrid Medium Engage
+Wukong Attaquant Catch Atk Top Jungle Ad Medium Engage Bump
+Xayah Tireur Atk Protect Adc Ad Medium Waveclear AA-Based
+Xerath ArtilleryMage Poke Atk Mid Support Ap Difficult Waveclear SemiGlobal Mana
+XinZhao Attaquant Catch Atk Jungle Ad Medium Bump
+Yasuo Duelliste Split Top Mid Ad Difficult AA-Based Crit Anti-Projetile Bump Dash Shield
+Yorick Boss Split Protect Top Ad Medium Wall
+Zac Avant-garde Atk Catch Jungle Ap Medium Engage Bump
+Zed Assassin Catch Split Mid Top Ad Expert
+Ziggs ArtilleryMage Poke Atk Mid Ap Difficult Waveclear Bump SemiGlobal
+Zilean Specialiste Protect Poke Support Mid Ap Medium Waveclear Revive Stun Slow Boost
+Zoe BurstMage Atk Catch Poke Mid Ap Difficult
+Zyra BurstMage Atk Catch Poke Support Mid Ap Medium Disengage Waveclear Bump

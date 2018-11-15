@@ -3,11 +3,11 @@ package lolComposition;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Champion {
+public class Information {
 	public String nom;
 	public List<String> proprietes;
 	
-	public Champion(String nom) {
+	public Information(String nom) {
 		this.nom = nom;
 		this.proprietes = new LinkedList<String>();
 	}
