@@ -1,0 +1,5 @@
+
+*.class
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/lolComposition/lolComposition/pom.properties
+target/classes/META-INF/maven/lolComposition/lolComposition/pom.xml
